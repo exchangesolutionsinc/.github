@@ -48,10 +48,6 @@ Seamless loyalty, unmatched engagement — personalized promotions and loyalty p
 | Source code | GitHub (migrated from Bitbucket, 2026) |
 | Docs & tickets | Atlassian (Confluence, Jira) |
 
-## 🔐 Security
-
-Found a vulnerability? **Do not open a public issue** — see [SECURITY.md](../SECURITY.md) for how to report it privately.
-
 ---
 
 <sub>Internal engineering docs and runbooks live in Confluence — ask in #devops if you need access.</sub>
