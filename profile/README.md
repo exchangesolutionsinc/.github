@@ -50,4 +50,4 @@ Seamless loyalty, unmatched engagement — personalized promotions and loyalty p
 
 ---
 
-<sub>Internal engineering docs and runbooks live in Confluence — ask in #devops if you need access.</sub>
+<sub>Internal engineering docs and runbooks live in Confluence — ask Corp IT if you need access.</sub>
